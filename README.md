@@ -1,4 +1,4 @@
-# odoo-india-training
+# Odoo-india-training
 For training
 Business Requirement
 -------------------------
